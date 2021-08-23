@@ -1,0 +1,183 @@
+[
+  {
+    "collection_name": "https://nnitiput.sirv.com/Images/name_collection/STRANGERS.png",
+    "collection_description": "We are animals. We recognize patterns and threats, friends and foes, the earthly and the divine (although, the latter we tend to project and invent)And so these guys come. All strangers, with no explanation. Waiting to be identified by the only person, who matters.The one who will give them their names."
+  },
+  {
+    "id" : "1",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "defeat",
+    "materials" : "canvas, acrylics",
+    "size" : "80x60cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/defeat_80x60.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/defeat.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "2",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "the magus",
+    "text": "",
+    "picture_name" : "the<br>magus",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/the_magus_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/the_magus.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "3",
+    "collection": "strangers",
+    "status" : "empty"
+  },
+  {
+    "id" : "4",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "khepri",
+    "materials" : "canvas, acrylics",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/khepri_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/kherpi.png",
+    "text" : ""
+  }, 
+  {
+    "id" : "5",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "the minotaur",
+    "picture_name" : "the<br>mino-<br>taur",
+    "materials" : "canvas, acrylics",
+    "size" : "30x35cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/the_minotaur_30x35.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/the_minotaur.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "6",
+    "collection": "strangers",
+    "status" : "empty"
+  },
+  {
+    "id" : "7",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "guard01",
+    "picture_name" : "guard<br>01",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image": "https://nnitiput.sirv.com/Images/STRANGERS/guard01_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/guard01.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "8",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "guard02",
+    "picture_name" : "guard<br>02",
+    "materials" : "canvas, acrylics",
+    "size" : "70x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/guard02_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/guard02.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "9",
+    "collection": "strangers",
+    "status" : "empty"
+  },
+  {
+    "id" : "10",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "victory",
+    "picture_name" : "victo-<br>ry",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/victory_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/victory.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "11",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "phistashion",
+    "picture_name" : "phista-<br>shion",
+    "materials" : "canvas, acrylics",
+    "size" : "80x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/phistashion_80x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/phistashion.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "12",
+    "collection": "strangers",
+    "status" : "empty"
+  },
+  {
+    "id" : "13",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "hierophant",
+    "picture_name" : "hiero-<br>phant",
+    "materials" : "canvas, acrylics",
+    "size" : "80x60cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/hierophant_80x60.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/Hierophant.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "14",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "guard03",
+    "picture_name" : "guard<br>03",
+    "materials" : "canvas, acrylics",
+    "size" : "80x70cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/guard03_80x70.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/guard03.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "15",
+    "collection": "strangers",
+    "status" : "empty"
+  },
+  {
+    "id" : "16",
+    "collection": "strangers",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "lover",
+    "materials" : "canvas, acrylics",
+    "size" : "70x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/STRANGERS/lover_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/STRANGERS_thumball/lover.jpg",
+    "text" : ""
+  }
+]

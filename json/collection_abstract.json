@@ -1,0 +1,454 @@
+[ 
+  {
+    "collection_name": "https://nnitiput.sirv.com/Images/name_collection/abstract.png",
+    "collection_description": "I started to paint from the blank canvas, and all of the work was done as a dialogue — with the viewer. But also, with the shapes, that tend to be unpredictive and stubborn. The real turning point is when they gain meaning and just push me, defiantely, against the ropes. They now have their own voices."
+  },
+  {
+    "id" : "1",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "new year",
+    "picture_name" : "new<br>year",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/new_year_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/new_year_60x40.png",
+    "text" : ""
+  },
+  {
+    "id" : "2",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "all white 1",
+    "picture_name" : "all<br>white 1",
+    "materials" : "canvas, acrylics",
+    "size" : "50x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/all_white1_40x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/all_white1_50x40.png",
+    "text" : ""
+  },
+  {
+    "id" : "3",
+    "status" : "empty"
+  },
+  {
+    "id" : "4",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "manifesto",
+    "picture_name" : "mani-<br>festo",
+    "materials" : "canvas, acrylics",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/manifesto_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/manifesto_40x50.png",
+    "text" : ""
+  }, 
+  {
+    "id" : "5",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "blue01",
+    "materials" : "canvas, acrylics",
+    "size" : "50x30cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/blue01_50x30.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/blue01.png",
+    "text" : ""
+  },
+  {
+    "id" : "6",
+    "status" : "empty"
+  },
+  {
+    "id" : "7",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "magic",
+    "materials" : "canvas, acrylics",
+    "size" : "80x60cm",
+    "year" : "2020",
+    "image": "https://nnitiput.sirv.com/Images/ABSTRACT/magic_80x60.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/magic.png",
+    "text" : ""
+  },
+  {
+    "id" : "8",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "Light industry",
+    "picture_name" : "Light<br>indu-<br>stry",
+    "materials" : "canvas, acrylics",
+    "size" : "80x60cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/light_industry_80x60.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/Light%20industry.png",
+    "text" : ""
+  },
+  {
+    "id" : "9",
+    "status" : "empty"
+  },
+  {
+    "id" : "10",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "Angel-sofa",
+    "picture_name" : "Angel-<br>sofa",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/angel_sofa_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/angel-sofa.png",
+    "text" : ""
+  },
+  {
+    "id" : "11",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "Want won’t get",
+    "picture_name" : "Want<br>won’t<br>get",
+    "materials" : "canvas, acrylics",
+    "size" : "30x35cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/want_won't_get_30x35.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/want_won%E2%80%99t_get.png",
+    "text" : ""
+  },
+  {
+    "id" : "12",
+    "status" : "empty"
+  },
+  {
+    "id" : "13",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "Space 01",
+    "picture_name" : "space<br>01",
+    "materials" : "canvas, acrylics",
+    "size" : "80x70cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/space_01_80x70.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/Space_01.png",
+    "text" : ""
+  },
+  {
+    "id" : "14",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "THE BULL",
+    "picture_name" : "the<br>bull",
+    "materials" : "canvas, acrylics",
+    "size" : "80x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/the_bull_80x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/THE_BULL.png",
+    "text" : ""
+  },
+  {
+    "id" : "15",
+    "status" : "empty"
+  },
+  {
+    "id" : "16",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "cards",
+    "materials" : "canvas, acrylics",
+    "size" : "70x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/cards_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/cards.png",
+    "text" : ""
+  },
+  {
+    "id" : "17",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "gray black",
+    "picture_name" : "gray<br>black",
+    "materials" : "canvas, acrylics",
+    "size" : "80x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/gray_black_80x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/gray_blAck.png",
+    "text" : ""
+  },
+  {
+    "id" : "18",
+    "status" : "empty"
+  },
+  {
+    "id" : "19",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "coffee thrown",
+    "picture_name" : "coffee<br>thro-<br>wn",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/coffee_thrown_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/coffee_THROWN.png",
+    "text" : ""
+  },
+  {
+    "id" : "20",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "abstrct01",
+    "picture_name" : "abstr-<br>ct01",
+    "materials" : "canvas, acrylics",
+    "size" : "50x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/abstrct01_50x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/abstrct01.png",
+    "text" : ""
+  },
+  {
+    "id" : "21",
+    "status" : "empty"
+  },
+  {
+    "id" : "22",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "the mask",
+    "picture_name" : "the<br>mask",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/the_mask_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/The_mask.png",
+    "text" : ""
+  },
+  {
+    "id" : "23",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "dialogue 01",
+    "picture_name" : "dialo-<br>gue 01",
+    "materials" : "canvas, acrylics",
+    "size" : "40x30cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/dialoge_01_40x30.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/dialogue_01.png",
+    "text" : ""
+  },
+  {
+    "id" : "24",
+    "status" : "empty"
+  },
+  {
+    "id" : "25",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "legs",
+    "materials" : "canvas, acrylics",
+    "size" : "30x20cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/legs_30x20.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/legs.png",
+    "text" : ""
+  },
+  {
+    "id" : "26",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "opposite",
+    "picture_name" : "oppo-<br>site",
+    "materials" : "canvas, acrylics",
+    "size" : "80x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/opposite_80x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/opposite.png",
+    "text" : ""
+  },
+  {
+    "id" : "27",
+    "status" : "empty"
+  },
+  {
+    "id" : "28",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "i swear",
+    "picture_name" : "i<br>swear",
+    "materials" : "canvas, acrylics",
+    "size" : "60x45cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/i_swear_60x45.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/i_swear.png",
+    "text" : ""
+  },
+  {
+    "id" : "29",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "abstrct02",
+    "picture_name" : "abstr-<br>ct02",
+    "materials" : "canvas, acrylics",
+    "size" : "80x60cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/abstrct02_80x60.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/abstrct02.png",
+    "text" : ""
+  },
+  {
+    "id" : "30",
+    "status" : "empty"
+  },
+  {
+    "id" : "31",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "space02",
+    "picture_name" : "space<br>02",
+    "materials" : "canvas, acrylics",
+    "size" : "29x21cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/space02_29x21.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/SPACE02.png",
+    "text" : ""
+  },
+  {
+    "id" : "32",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "abstrct00",
+    "picture_name" : "abstr-<br>ct00",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/abstrct00_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/abstrct00.png",
+    "text" : ""
+  },
+  {
+    "id" : "33",
+    "status" : "empty"
+  },
+  {
+    "id" : "34",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "abstrct03",
+    "picture_name" : "abstr-<br>ct03",
+    "materials" : "canvas, acrylics",
+    "size" : "30x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/abstrct03_30x29.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/abstrct03.png",
+    "text" : ""
+  },
+  {
+    "id" : "35",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "dialogue 02",
+    "picture_name" : "dialo-<br>gue02",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/dialoge_02_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/dialogue_02.png",
+    "text" : ""
+  },
+  {
+    "id" : "36",
+    "status" : "empty"
+  },
+  {
+    "id" : "37",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "It still doesn’t",
+    "picture_name" : "It still<br>doe-<br>sn’t",
+    "materials" : "canvas, acrylics",
+    "size" : "40x30cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/it_still_doesn't_40x30.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/It_still_doesn%E2%80%99t.png",
+    "text" : ""
+  },
+  {
+    "id" : "38",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "abstrct04",
+    "picture_name" : "abstr-<br>ct04",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/abstrct04_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/abstrct04.png",
+    "text" : ""
+  },
+  {
+    "id" : "39",
+    "status" : "empty"
+  },
+  {
+    "id" : "40",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "space03",
+    "picture_name" : "space<br>03",
+    "materials" : "canvas, acrylics",
+    "size" : "30x20cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/space03_30x20.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/SPACE03.png",
+    "text" : ""
+  },
+  {
+    "id" : "41",
+    "collection": "abstract",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "white red",
+    "picture_name" : "white<br>red",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/ABSTRACT/white_red_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/ABSTRACT_thumball/white_red.png",
+    "text" : ""
+  },
+  {
+    "id" : "42",
+    "status" : "empty"
+  }
+]
+
+
+
+  

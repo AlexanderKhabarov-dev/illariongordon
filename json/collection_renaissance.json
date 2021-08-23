@@ -1,0 +1,100 @@
+[
+  {
+    "collection_name": "https://nnitiput.sirv.com/Images/name_collection/RENAISSANCE.png",
+    "collection_description": "This is my own time,  and I spend it paying homages to Breugel, Giotto, Uccello, and the catastrophies of the modern self-awarenes. Brace yourself, for it will be very symbolic in here."
+  },
+  {
+    "id" : "1",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "uninvited",
+    "picture_name" : "uninvi-<br>ted",
+    "materials" : "canvas, acrylics",
+    "size" : "40x50cm",
+    "year" : "2021",
+    "image":"https://nnitiput.sirv.com/Images/RENAISSANCE/uninvited_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/uninvited.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "2",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "serpent & сhalice",
+    "picture_name" : "serp-<br>ent &<br> cha-<br>lice",
+    "materials" : "canvas, acrylics",
+    "size" : "30x35cm",
+    "year" : "2019",
+    "image":"https://nnitiput.sirv.com/Images/RENAISSANCE/serpent_%26_chalice_30x35.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/serpent_%26_chalice.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "3",
+    "collection": "renaissance",
+    "status" : "empty"
+  },
+  {
+    "id" : "4",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "fruit of the tree",
+    "picture_name" : "fruit<br>of the<br>tree",
+    "materials" : "canvas, acrylics",
+    "size" : "70x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/RENAISSANCE/fruit_of_the_tree_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/fruit_of_the_tree.jpg",
+    "text" : ""
+  }, 
+  {
+    "id" : "5",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "unnoticed",
+    "picture_name" : "unnot-<br>iced",
+    "materials" : "canvas, acrylics",
+    "size" : "60x40cm",
+    "year" : "2021",
+    "image":"https://nnitiput.sirv.com/Images/RENAISSANCE/unnoticed_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/unnoticed.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "6",
+    "collection": "renaissance",
+    "status" : "empty"
+  },
+  {
+    "id" : "7",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "uncured",
+    "picture_name" : "uncu-<br>red",
+    "materials" : "canvas, acrylics",
+    "size" : "70x50cm",
+    "year" : "2021",
+    "image": "https://nnitiput.sirv.com/Images/RENAISSANCE/uncured_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/uncured.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "8",
+    "collection": "renaissance",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "helmet 1",
+    "picture_name" : "helmet<br>1",
+    "materials" : "canvas, acrylics",
+    "size" : "35x40cm",
+    "year" : "2021",
+    "image":"https://nnitiput.sirv.com/Images/RENAISSANCE/helmet1.JPG",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/RENAISSANCE_thumball/helmet1.jpg",
+    "text" : ""
+    }
+]

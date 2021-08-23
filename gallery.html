@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Illarion gordon</title>
+  <link rel="stylesheet" href="./scss/main.scss">
+  <link rel="shortcut icon" type="image/png" href="./assets/favicon/android-icon-192x192.png"/>
+</head>
+<body> 
+  <div class="shadow shadow--active shadow--transition-none"></div>
+  
+  <div class="page" id="top">
+    <span href="#top" class="to-top">
+      <span>UP</span>
+    </span>
+
+    <header class="header">
+      <div class="container">
+        <div class="header__wrapper">
+          <div class="logo--small">
+            <a href="index.html">
+              <img src="./assets/images/svg/logo--small.svg" alt="">
+            </a>
+          </div>
+          <div class="header__breadcrumbs-item header__breadcrumbs-prev hide-lg"><a href="./art.html">back</a></div>
+          <nav class="header__nav-second">
+            <ul class="header__nav-second-list">
+              <li class="header__nav-second-item header__nav-second-item--art"><a href="./art.html" class="header__nav-second-link">art</a></li>
+              <li class="header__nav-second-item header__nav-second-item--about"><a href="./about.html" class="header__nav-second-link">about me</a></li>
+              <li class="header__nav-second-item header__nav-second-item--contacts"><a href="./contacts.html" class="header__nav-second-link">contacts</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    
+    <section class="gallery " data-wow-duration="1s">
+      <div class="container">
+        <div class="gallery__container row row-cols-2 row-cols-sm-2 row-cols-lg-4 row-cols-xl-5" id="galleryContainer">
+  
+        </div>
+      </div>
+    </section>
+
+    
+
+    <section class="picture hide">
+      <header class="header">
+        <div class="container">
+          <div class="header__wrapper">
+            <div class="logo--small">
+              <a href="index.html">
+                <img src="./assets/images/svg/logo--small.svg" alt="">
+              </a>
+            </div>
+            <div class="header__breadcrumbs-item header__breadcrumbs-item--picture header__breadcrumbs-prev hide-lg"><a class="link-window-prev" href="./index.html">back</a></div>
+            <nav class="header__nav-second">
+              <ul class="header__nav-second-list header__nav-second--picture">
+                <li class="header__nav-second-item header__nav-second-item--art"><a href="./art.html" class="header__nav-second-link">art</a></li>
+                <li class="header__nav-second-item header__nav-second-item--about"><a href="./about.html" class="header__nav-second-link">about me</a></li>
+                <li class="header__nav-second-item header__nav-second-item--contacts"><a href="./contacts.html" class="header__nav-second-link">contacts</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </header>
+
+      <div class="picture__container"></div>
+    </section> 
+  </div>
+
+  <div class="picture-popup hide">
+    <div class="picture-popup__backdrop" data-type="close"></div>
+    <div>
+      <img class="picture-popup__image" src="https://nnitiput.sirv.com/Images/STRANGERS/defeat_80x60.png" alt="">
+    </div>
+    <div class="picture-popup__close" >
+      <img  data-type="close" src="./assets/icons/close-popup.svg" alt="">
+    </div>
+  </div>
+  <script src="./js/script.js"></script>
+</body> 
+</html>

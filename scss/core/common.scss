@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: $color-white;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  background-color: $color-black;
+  color: $color-white;
+  font-family: 'Grotesk';
+}
+
+.page {
+
+}
+
+.container {
+  max-width: 1600px;
+  margin: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.align-flex-center {
+  display: flex;
+  align-items: center;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.hide {
+  display: none;
+}
+
+.opacity {
+  opacity: 0;
+}
+
+.row-justify-center {
+  display: flex;
+  justify-content: center;
+}
+
+.row-justify-fe {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.row-justify-fs {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.row-xl-justify-fe {
+  @media(max-width:1024px) {
+    justify-content: flex-end;
+  }
+}
+
+.hide-sm {
+  @media (max-width:540px) {
+    display: none;
+  }
+}
+
+.hide-lg {
+  @media (max-width:1024px) {
+      display: none;
+  }
+}
+
+.visibility-none {
+  visibility: hidden;
+}
+
+.text-center {
+  text-align: center;
+}
+
+img {
+  opacity: 1;
+  transition:
+  opacity 0.3s;
+}
+
+img[data-src] {
+  opacity: 0;
+}

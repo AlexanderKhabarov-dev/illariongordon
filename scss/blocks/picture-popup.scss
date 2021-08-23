@@ -1,0 +1,66 @@
+.picture-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0, .8);
+  z-index: 99;
+  transition: all .3s ease ;
+  opacity: 0;
+
+  &--show {
+    opacity: 1;  
+  }
+
+  &__backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+  &__image {
+    z-index: 5;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    @media(min-width: 1025px) {
+      height: 80%;
+    }
+
+    @media(max-width: 1024px) {
+      width: 70%;
+    }
+
+    @media(max-width: 540px) {
+      width: 80%;
+    }
+  }
+
+  &__close {
+    position: absolute;
+    cursor: pointer;
+    transition: all .2s ease;
+    z-index: 10;
+
+    @media(min-width: 541px) {
+      top: 30px;
+      right: 30px;
+    }
+
+    @media(max-width: 540px) {
+      left: 50%;
+      bottom: 5px;
+      transform: translateX(-50%);
+    }
+
+    &:hover {
+      opacity: .7;
+    }
+  }
+}

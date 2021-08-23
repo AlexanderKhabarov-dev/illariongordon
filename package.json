@@ -1,0 +1,23 @@
+{
+  "name": "larik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html gallery.html about.html picture.html art.html collection.html contacts.html",
+    "build": "parcel index.html gallery.html about.html picture.html art.html collection.html contacts.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.6.0",
+    "swiper": "^6.5.5",
+    "wowjs": "^1.1.3"
+  }
+}

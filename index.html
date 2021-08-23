@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Illarion gordon</title>
+  <link rel="stylesheet" href="./scss/main.scss">
+  <link rel="shortcut icon" type="image/png" href="./assets/favicon/android-icon-192x192.png"/>
+</head>
+<body>
+  <span href="#top" class="to-top">
+    <span>UP</span>
+  </span>
+  
+  <div class="preloader">
+    <div class="preloader__logo">
+      <img src="./assets/images/preloader__logo.png" alt="">
+    </div>
+    <div class="preloader__image preloader__image--1">
+      <img src="./assets/images/preloader-image-1.jpg" alt="">
+    </div>
+    <div class="preloader__image preloader__image--2">
+      <img src="./assets/images/preloader-image-2.jpg" alt="">
+    </div>
+    <div class="preloader__image preloader__image--3">
+      <img src="./assets/images/preloader-image-3.jpg" alt="">
+    </div>
+    <!-- <div class="preloader__progressbar">
+      <div class="preloader__progressbar-loader"></div>
+    </div> -->
+    <div class="preloader-container">
+      <div class=" loader-container arc-scale">
+        <div class="loader">
+          <div class="arc"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="page">
+    <!-- shadow--active shadow--transition-none -->
+    <div class="shadow "></div> 
+    <header class="header header-main">
+      <div class="logo--big">
+        <img class="logo--desktop" src="./assets/images/svg/logo--big.svg" alt="">
+        <img class="logo--mobile" src="./assets/images/svg/logo-mobile-desktop.svg" alt="">
+      </div>
+      <nav class="header__nav">
+        <ul class="header__nav-list">
+          <li class="header__nav-item"><a href="./about.html" id="aboutButton">about me</a> </li>
+          <li class="header__nav-item"><a href="./art.html" id="artButton"> art</a></li>
+          <li class="header__nav-item"><a href="./contacts.html" id="contactsButton">contacts</a> </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="video">
+      <video class="video-main" muted  preload="auto" playsinline>
+        <source src="./assets/video/main-video.mp4"></source>
+      </video> 
+      <video class="video-secondary video-desktop" muted preload="auto" playsinline>
+        <source src="./assets/video/main-video-fire.mp4"></source>
+      </video> 
+      <video class="video-art video-desktop" muted preload="auto"  playsinline>
+        <source src="./assets/video/video-art.mp4"></source>
+      </video> 
+      <video class="video-contacts video-desktop" muted preload="auto" playsinline>
+        <source src="./assets/video/video-contacts.mp4"></source>
+      </video> 
+      <video class="video-about video-desktop" muted preload="auto" playsinline>
+        <source src="./assets/video/video-about.mp4"></source>
+      </video> 
+    </div>
+
+
+  </div>
+  <script src="./js/script.js"></script>
+  <scripts src="./js/video-controller.js"></script>
+</body> 
+</html>

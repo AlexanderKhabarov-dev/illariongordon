@@ -1,0 +1,364 @@
+[
+  {
+    "collection_name": "https://nnitiput.sirv.com/Images/name_collection/GRAPHICS.png",
+    "collection_description": "I come from graphics, been doin them my whole life. Here’s some gods and heros, fungi and toads.🖤"
+  },
+  {
+    "id" : "1",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "divite wind",
+    "picture_name" : "divite<br>wind",
+    "materials" : "paper, china ink",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/divite_wind_40x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/divite_wind.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "2",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "hadouken",
+    "picture_name" : "hado-<br>uken",
+    "materials" : "paper, china ink",
+    "size" : "50x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/hadouken_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/hadouken.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "3",
+    "status" : "empty"
+  },
+  {
+    "id" : "4",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "black tower",
+    "picture_name" : "black<br>tower",
+    "materials" : "digital",
+    "size" : "50x60cm",
+    "year" : "2019",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/black_tower_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/black_tower.jpg",
+    "text" : ""
+  }, 
+  {
+    "id" : "5",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "Big bad wolf 01",
+    "picture_name" : "big<br>bad<br>wolf<br>01",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/big_bad_wolf_01_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/Big_bad_wolf_01.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "6",
+    "status" : "empty"
+  },
+  {
+    "id" : "7",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "no",
+    "materials" : "paper, china ink",
+    "size" : "30x20cm",
+    "year" : "2020",
+    "image": "https://nnitiput.sirv.com/Images/GRAPHICS/no_30x20.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/no.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "8",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "koyote",
+    "materials" : "paper, china ink",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/koyote_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/koyote.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "9",
+    "status" : "empty"
+  },
+  {
+    "id" : "10",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "mushrooms",
+    "picture_name" : "mush-<br>rooms",
+    "materials" : "paper, china ink",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/mushrooms_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/mushrooms.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "11",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "the void",
+    "picture_name" : "the<br>void",
+    "materials" : "digital",
+    "size" : "40x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/the_void_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/the_void.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "12",
+    "status" : "empty"
+  },
+  {
+    "id" : "13",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "ex libris Vsevolod",
+    "picture_name" : "ex<br>libris<br>Vsevo-<br>lod",
+    "materials" : "digital",
+    "size" : "30x20cm",
+    "year" : "2019",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/ex_libris_vsevolod_30x20.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/ex_libris_vsevolod.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "14",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "scent of burnt rubber",
+    "picture_name" : "scent<br>of<br>burnt<br>rub-<br>ber",
+    "materials" : "digital",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/scent_of_burnt_rubber_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/scent_of_burnt_rubber.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "15",
+    "status" : "empty"
+  },
+  {
+    "id" : "16",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "the oath",
+    "picture_name" : "the<br>oath",
+    "materials" : "paper, china ink",
+    "size" : "60x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/the_oath_60x40.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/the_oath.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "17",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "satyr",
+    "materials" : "paper, china ink",
+    "size" : "70x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/satyr_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/satyr.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "18",
+    "status" : "empty"
+  },
+  {
+    "id" : "19",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "toad guard",
+    "picture_name" : "toad<br>guard",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/toad_guard_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/toad_guard.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "20",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "brennt",
+    "picture_name" : "bren-<br>nt",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/brennt_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/brennt.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "21",
+    "status" : "empty"
+  },
+  {
+    "id" : "22",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "h. p.",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/hp_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/HP.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "23",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "thor",
+    "materials" : "paper, china ink",
+    "size" : "40x30cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/thor_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/thor.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "24",
+    "status" : "empty"
+  },
+  {
+    "id" : "25",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "the butler",
+    "picture_name" : "the<br>butler",
+    "materials" : "paper, china ink",
+    "size" : "40x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/the_butler_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/the_butler.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "26",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "loki",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/loki_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/loki.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "27",
+    "status" : "empty"
+  },
+  {
+    "id" : "28",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "clouds",
+    "materials" : "paper, china ink",
+    "size" : "40x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/clouds_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/clouds.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "29",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "cú chulainn",
+    "picture_name" : "cú<br>chul-<br>ainn",
+    "materials" : "paper, china ink",
+    "size" : "50x60cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/c%C3%BA_chulainn_70x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/c%C3%BA_chulainn.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "30",
+    "status" : "empty"
+  },
+  {
+    "id" : "31",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-small",
+    "name" : "werewolf",
+    "picture_name" : "were-<br>wolf",
+    "materials" : "paper, china ink",
+    "size" : "50x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/werewolf_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/werewolf.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "32",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "vertical-big",
+    "name" : "big bad wolf 02",
+    "picture_name" : "big<br>bad<br>wolf<br>02",
+    "materials" : "paper, china ink",
+    "size" : "40x50cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/big_bad_wolf_02_30x20.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/big_bad_wolf_02.jpg",
+    "text" : ""
+  },
+  {
+    "id" : "33",
+    "status" : "empty"
+  },
+  {
+    "id" : "34",
+    "collection": "graphics",
+    "status" : "fill",
+    "type" : "horizontal-small",
+    "name" : "shot",
+    "materials" : "paper, china ink",
+    "size" : "40x40cm",
+    "year" : "2020",
+    "image":"https://nnitiput.sirv.com/Images/GRAPHICS/shot_40x50.png",
+    "thumbnail" : "https://nnitiput.sirv.com/Images/GRAPHICS_thumball/shot.jpg",
+    "text" : ""
+  }
+]

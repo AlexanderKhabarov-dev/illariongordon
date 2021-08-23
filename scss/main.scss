@@ -1,0 +1,28 @@
+//libs
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import 'swiper/swiper-bundle.css';
+@import "../node_modules/animate.css/animate.min.css";
+
+//core
+@import './core/fonts.scss';
+@import './core/variables.scss';
+@import './core/colors.scss';
+@import './core/common.scss';
+
+//blocks
+@import './blocks/header.scss';
+@import './blocks/about-title.scss';
+@import './blocks/image.scss';
+@import './blocks/gallery.scss';
+@import './blocks/video.scss';
+@import './blocks/picture.scss';
+@import './blocks/full-catalog.scss';
+@import './blocks/main-slider.scss';
+@import './blocks/shadow.scss';
+@import './blocks/collection-title.scss';
+@import './blocks/preloader.scss';
+@import './blocks/contacts.scss';
+@import './blocks/to-top.scss';
+@import './blocks/picture-popup.scss';
+@import './blocks/art-cards.scss';
+@import './blocks/loader.scss';
